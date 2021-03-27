@@ -17,12 +17,8 @@ app.get("/notes", function(req, res) {
 
 //html
 
-stuck..
-// app.post("/api/notes", function (req, res){
-//     const key = req.body
-// })
+ app.post("/api/notes", function (req, res){
+     const key = req.body
+})
 
-
-
-//
 app.post()
